@@ -25,7 +25,10 @@ body {
     width: 500px;
     height: 500px;
 }
-
+.w{
+    width: 1200px;
+    height: 1200px;
+}
 .crop {
    padding-right: -50px;
 }
